@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\bin\Debug\net5.0\ChallengeStrings1.exe
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\bin\Debug\net5.0\ChallengeStrings1.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\bin\Debug\net5.0\ChallengeStrings1.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\bin\Debug\net5.0\ChallengeStrings1.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\bin\Debug\net5.0\ChallengeStrings1.dll
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\bin\Debug\net5.0\ChallengeStrings1.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\obj\Debug\net5.0\ChallengeStrings1.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\obj\Debug\net5.0\ChallengeStrings1.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\obj\Debug\net5.0\ChallengeStrings1.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\obj\Debug\net5.0\ChallengeStrings1.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\obj\Debug\net5.0\ChallengeStrings1.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\obj\Debug\net5.0\ChallengeStrings1.dll
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\obj\Debug\net5.0\refint\ChallengeStrings1.dll
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\obj\Debug\net5.0\ChallengeStrings1.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\obj\Debug\net5.0\ChallengeStrings1.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ChallengeStrings1\obj\Debug\net5.0\ref\ChallengeStrings1.dll

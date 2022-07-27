@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\bin\Debug\net5.0\ConsoleClassAndMethods.exe
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\bin\Debug\net5.0\ConsoleClassAndMethods.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\bin\Debug\net5.0\ConsoleClassAndMethods.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\bin\Debug\net5.0\ConsoleClassAndMethods.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\bin\Debug\net5.0\ConsoleClassAndMethods.dll
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\bin\Debug\net5.0\ConsoleClassAndMethods.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\obj\Debug\net5.0\ConsoleClassAndMethods.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\obj\Debug\net5.0\ConsoleClassAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\obj\Debug\net5.0\ConsoleClassAndMethods.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\obj\Debug\net5.0\ConsoleClassAndMethods.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\obj\Debug\net5.0\ConsoleClassAndMethods.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\obj\Debug\net5.0\ConsoleClassAndMethods.dll
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\obj\Debug\net5.0\refint\ConsoleClassAndMethods.dll
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\obj\Debug\net5.0\ConsoleClassAndMethods.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\obj\Debug\net5.0\ConsoleClassAndMethods.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ConsoleClassAndMethods\obj\Debug\net5.0\ref\ConsoleClassAndMethods.dll

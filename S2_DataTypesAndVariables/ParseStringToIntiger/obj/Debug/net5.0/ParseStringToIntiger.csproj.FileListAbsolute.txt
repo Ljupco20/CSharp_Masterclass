@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\bin\Debug\net5.0\ParseStringToIntiger.exe
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\bin\Debug\net5.0\ParseStringToIntiger.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\bin\Debug\net5.0\ParseStringToIntiger.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\bin\Debug\net5.0\ParseStringToIntiger.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\bin\Debug\net5.0\ParseStringToIntiger.dll
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\bin\Debug\net5.0\ParseStringToIntiger.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\obj\Debug\net5.0\ParseStringToIntiger.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\obj\Debug\net5.0\ParseStringToIntiger.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\obj\Debug\net5.0\ParseStringToIntiger.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\obj\Debug\net5.0\ParseStringToIntiger.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\obj\Debug\net5.0\ParseStringToIntiger.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\obj\Debug\net5.0\ParseStringToIntiger.dll
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\obj\Debug\net5.0\refint\ParseStringToIntiger.dll
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\obj\Debug\net5.0\ParseStringToIntiger.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\obj\Debug\net5.0\ParseStringToIntiger.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\ParseStringToIntiger\obj\Debug\net5.0\ref\ParseStringToIntiger.dll

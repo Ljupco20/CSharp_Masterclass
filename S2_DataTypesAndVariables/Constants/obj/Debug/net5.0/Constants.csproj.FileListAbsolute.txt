@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\bin\Debug\net5.0\Constants.exe
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\bin\Debug\net5.0\Constants.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\bin\Debug\net5.0\Constants.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\bin\Debug\net5.0\Constants.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\bin\Debug\net5.0\Constants.dll
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\bin\Debug\net5.0\Constants.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\obj\Debug\net5.0\Constants.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\obj\Debug\net5.0\Constants.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\obj\Debug\net5.0\Constants.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\obj\Debug\net5.0\Constants.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\obj\Debug\net5.0\Constants.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\obj\Debug\net5.0\Constants.dll
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\obj\Debug\net5.0\refint\Constants.dll
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\obj\Debug\net5.0\Constants.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\obj\Debug\net5.0\Constants.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S2_DataTypesAndVariables\Constants\obj\Debug\net5.0\ref\Constants.dll
