@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\bin\Debug\net5.0\VoidMethods.exe
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\bin\Debug\net5.0\VoidMethods.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\bin\Debug\net5.0\VoidMethods.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\bin\Debug\net5.0\VoidMethods.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\bin\Debug\net5.0\VoidMethods.dll
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\bin\Debug\net5.0\VoidMethods.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.dll
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\obj\Debug\net5.0\refint\VoidMethods.dll
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\obj\Debug\net5.0\VoidMethods.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\VoidMethods\obj\Debug\net5.0\ref\VoidMethods.dll

@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\bin\Debug\net5.0\ExerciseMethods1.exe
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\bin\Debug\net5.0\ExerciseMethods1.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\bin\Debug\net5.0\ExerciseMethods1.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\bin\Debug\net5.0\ExerciseMethods1.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\bin\Debug\net5.0\ExerciseMethods1.dll
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\bin\Debug\net5.0\ExerciseMethods1.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\obj\Debug\net5.0\ExerciseMethods1.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\obj\Debug\net5.0\ExerciseMethods1.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\obj\Debug\net5.0\ExerciseMethods1.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\obj\Debug\net5.0\ExerciseMethods1.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\obj\Debug\net5.0\ExerciseMethods1.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\obj\Debug\net5.0\ExerciseMethods1.dll
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\obj\Debug\net5.0\refint\ExerciseMethods1.dll
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\obj\Debug\net5.0\ExerciseMethods1.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\obj\Debug\net5.0\ExerciseMethods1.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\ExerciseMethods1\obj\Debug\net5.0\ref\ExerciseMethods1.dll
