@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\obj\Debug\net5.0\CodExer5_BreakAndContinue.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\obj\Debug\net5.0\CodExer5_BreakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\obj\Debug\net5.0\CodExer5_BreakAndContinue.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\obj\Debug\net5.0\CodExer5_BreakAndContinue.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\obj\Debug\net5.0\CodExer5_BreakAndContinue.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\bin\Debug\net5.0\CodExer5_BreakAndContinue.exe
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\bin\Debug\net5.0\CodExer5_BreakAndContinue.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\bin\Debug\net5.0\CodExer5_BreakAndContinue.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\bin\Debug\net5.0\CodExer5_BreakAndContinue.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\bin\Debug\net5.0\CodExer5_BreakAndContinue.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\bin\Debug\net5.0\CodExer5_BreakAndContinue.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\obj\Debug\net5.0\CodExer5_BreakAndContinue.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\obj\Debug\net5.0\refint\CodExer5_BreakAndContinue.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\obj\Debug\net5.0\CodExer5_BreakAndContinue.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\obj\Debug\net5.0\CodExer5_BreakAndContinue.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExer5_BreakAndContinue\obj\Debug\net5.0\ref\CodExer5_BreakAndContinue.dll

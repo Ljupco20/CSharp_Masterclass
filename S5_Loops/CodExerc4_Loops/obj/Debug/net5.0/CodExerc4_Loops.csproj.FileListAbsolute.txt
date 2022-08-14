@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\bin\Debug\net5.0\CodExerc4_Loops.exe
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\bin\Debug\net5.0\CodExerc4_Loops.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\bin\Debug\net5.0\CodExerc4_Loops.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\bin\Debug\net5.0\CodExerc4_Loops.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\bin\Debug\net5.0\CodExerc4_Loops.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\bin\Debug\net5.0\CodExerc4_Loops.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\obj\Debug\net5.0\CodExerc4_Loops.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\obj\Debug\net5.0\CodExerc4_Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\obj\Debug\net5.0\CodExerc4_Loops.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\obj\Debug\net5.0\CodExerc4_Loops.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\obj\Debug\net5.0\CodExerc4_Loops.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\obj\Debug\net5.0\CodExerc4_Loops.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\obj\Debug\net5.0\refint\CodExerc4_Loops.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\obj\Debug\net5.0\CodExerc4_Loops.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\obj\Debug\net5.0\CodExerc4_Loops.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\CodExerc4_Loops\obj\Debug\net5.0\ref\CodExerc4_Loops.dll

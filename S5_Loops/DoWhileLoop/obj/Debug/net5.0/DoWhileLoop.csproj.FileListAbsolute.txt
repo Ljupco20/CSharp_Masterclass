@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.exe
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\obj\Debug\net5.0\refint\DoWhileLoop.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\DoWhileLoop\obj\Debug\net5.0\ref\DoWhileLoop.dll

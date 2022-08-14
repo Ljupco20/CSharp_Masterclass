@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.exe
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\obj\Debug\net5.0\refint\BreakAndContinue.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\BreakAndContinue\obj\Debug\net5.0\ref\BreakAndContinue.dll

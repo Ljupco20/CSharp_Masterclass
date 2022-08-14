@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CodExerc4_Loops/1.0.0": {
+        "runtime": {
+          "CodExerc4_Loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodExerc4_Loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

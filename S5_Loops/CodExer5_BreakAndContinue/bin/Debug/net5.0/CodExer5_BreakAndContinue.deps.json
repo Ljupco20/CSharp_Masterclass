@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CodExer5_BreakAndContinue/1.0.0": {
+        "runtime": {
+          "CodExer5_BreakAndContinue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodExer5_BreakAndContinue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\bin\Debug\net5.0\For_Loops.exe
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\bin\Debug\net5.0\For_Loops.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\bin\Debug\net5.0\For_Loops.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\bin\Debug\net5.0\For_Loops.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\bin\Debug\net5.0\For_Loops.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\bin\Debug\net5.0\For_Loops.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\obj\Debug\net5.0\For_Loops.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\obj\Debug\net5.0\For_Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\obj\Debug\net5.0\For_Loops.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\obj\Debug\net5.0\For_Loops.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\obj\Debug\net5.0\For_Loops.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\obj\Debug\net5.0\For_Loops.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\obj\Debug\net5.0\refint\For_Loops.dll
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\obj\Debug\net5.0\For_Loops.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\obj\Debug\net5.0\For_Loops.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S5_Loops\For_Loops\obj\Debug\net5.0\ref\For_Loops.dll
