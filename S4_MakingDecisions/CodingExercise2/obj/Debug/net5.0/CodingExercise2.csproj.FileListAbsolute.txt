@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\bin\Debug\net5.0\CodingExercise2.exe
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\bin\Debug\net5.0\CodingExercise2.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\bin\Debug\net5.0\CodingExercise2.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\bin\Debug\net5.0\CodingExercise2.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\bin\Debug\net5.0\CodingExercise2.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\bin\Debug\net5.0\CodingExercise2.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\obj\Debug\net5.0\CodingExercise2.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\obj\Debug\net5.0\CodingExercise2.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\obj\Debug\net5.0\CodingExercise2.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\obj\Debug\net5.0\CodingExercise2.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\obj\Debug\net5.0\CodingExercise2.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\obj\Debug\net5.0\CodingExercise2.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\obj\Debug\net5.0\refint\CodingExercise2.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\obj\Debug\net5.0\CodingExercise2.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\obj\Debug\net5.0\CodingExercise2.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\CodingExercise2\obj\Debug\net5.0\ref\CodingExercise2.dll

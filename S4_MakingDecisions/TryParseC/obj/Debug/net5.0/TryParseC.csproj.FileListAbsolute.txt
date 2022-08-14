@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\bin\Debug\net5.0\TryParseC.exe
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\bin\Debug\net5.0\TryParseC.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\bin\Debug\net5.0\TryParseC.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\bin\Debug\net5.0\TryParseC.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\bin\Debug\net5.0\TryParseC.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\bin\Debug\net5.0\TryParseC.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\obj\Debug\net5.0\TryParseC.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\obj\Debug\net5.0\TryParseC.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\obj\Debug\net5.0\TryParseC.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\obj\Debug\net5.0\TryParseC.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\obj\Debug\net5.0\TryParseC.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\obj\Debug\net5.0\TryParseC.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\obj\Debug\net5.0\refint\TryParseC.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\obj\Debug\net5.0\TryParseC.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\obj\Debug\net5.0\TryParseC.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TryParseC\obj\Debug\net5.0\ref\TryParseC.dll

@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\bin\Debug\net5.0\SwitchStatements.exe
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\bin\Debug\net5.0\SwitchStatements.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\bin\Debug\net5.0\SwitchStatements.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\bin\Debug\net5.0\SwitchStatements.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\obj\Debug\net5.0\SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\obj\Debug\net5.0\SwitchStatements.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\obj\Debug\net5.0\refint\SwitchStatements.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\obj\Debug\net5.0\SwitchStatements.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\obj\Debug\net5.0\SwitchStatements.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\SwitchStatements\obj\Debug\net5.0\ref\SwitchStatements.dll

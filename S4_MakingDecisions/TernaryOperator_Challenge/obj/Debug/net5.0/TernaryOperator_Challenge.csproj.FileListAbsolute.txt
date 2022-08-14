@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\bin\Debug\net5.0\TernaryOperator_Challenge.exe
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\bin\Debug\net5.0\TernaryOperator_Challenge.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\bin\Debug\net5.0\TernaryOperator_Challenge.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\bin\Debug\net5.0\TernaryOperator_Challenge.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\bin\Debug\net5.0\TernaryOperator_Challenge.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\bin\Debug\net5.0\TernaryOperator_Challenge.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\obj\Debug\net5.0\TernaryOperator_Challenge.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\obj\Debug\net5.0\TernaryOperator_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\obj\Debug\net5.0\TernaryOperator_Challenge.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\obj\Debug\net5.0\TernaryOperator_Challenge.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\obj\Debug\net5.0\TernaryOperator_Challenge.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\obj\Debug\net5.0\TernaryOperator_Challenge.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\obj\Debug\net5.0\refint\TernaryOperator_Challenge.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\obj\Debug\net5.0\TernaryOperator_Challenge.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\obj\Debug\net5.0\TernaryOperator_Challenge.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\TernaryOperator_Challenge\obj\Debug\net5.0\ref\TernaryOperator_Challenge.dll

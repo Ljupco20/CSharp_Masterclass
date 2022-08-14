@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\bin\Debug\net5.0\Challenge_IfStatements.exe
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\bin\Debug\net5.0\Challenge_IfStatements.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\bin\Debug\net5.0\Challenge_IfStatements.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\bin\Debug\net5.0\Challenge_IfStatements.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\bin\Debug\net5.0\Challenge_IfStatements.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\bin\Debug\net5.0\Challenge_IfStatements.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\obj\Debug\net5.0\Challenge_IfStatements.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\obj\Debug\net5.0\Challenge_IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\obj\Debug\net5.0\Challenge_IfStatements.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\obj\Debug\net5.0\Challenge_IfStatements.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\obj\Debug\net5.0\Challenge_IfStatements.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\obj\Debug\net5.0\Challenge_IfStatements.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\obj\Debug\net5.0\refint\Challenge_IfStatements.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\obj\Debug\net5.0\Challenge_IfStatements.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\obj\Debug\net5.0\Challenge_IfStatements.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements\obj\Debug\net5.0\ref\Challenge_IfStatements.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CodExerc3_NestedIfStatements/1.0.0": {
+        "runtime": {
+          "CodExerc3_NestedIfStatements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodExerc3_NestedIfStatements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

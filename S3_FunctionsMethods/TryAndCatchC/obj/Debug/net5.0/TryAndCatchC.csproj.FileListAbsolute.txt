@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\bin\Debug\net5.0\TryAndCatchC.exe
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\bin\Debug\net5.0\TryAndCatchC.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\bin\Debug\net5.0\TryAndCatchC.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\bin\Debug\net5.0\TryAndCatchC.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\bin\Debug\net5.0\TryAndCatchC.dll
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\bin\Debug\net5.0\TryAndCatchC.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\obj\Debug\net5.0\TryAndCatchC.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\obj\Debug\net5.0\TryAndCatchC.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\obj\Debug\net5.0\TryAndCatchC.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\obj\Debug\net5.0\TryAndCatchC.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\obj\Debug\net5.0\TryAndCatchC.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\obj\Debug\net5.0\TryAndCatchC.dll
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\obj\Debug\net5.0\refint\TryAndCatchC.dll
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\obj\Debug\net5.0\TryAndCatchC.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\obj\Debug\net5.0\TryAndCatchC.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\TryAndCatchC\obj\Debug\net5.0\ref\TryAndCatchC.dll

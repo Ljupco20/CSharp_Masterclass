@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\bin\Debug\net5.0\NestedIfStatements.exe
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\bin\Debug\net5.0\NestedIfStatements.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\bin\Debug\net5.0\NestedIfStatements.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\bin\Debug\net5.0\NestedIfStatements.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\bin\Debug\net5.0\NestedIfStatements.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\bin\Debug\net5.0\NestedIfStatements.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\obj\Debug\net5.0\refint\NestedIfStatements.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\NestedIfStatements\obj\Debug\net5.0\ref\NestedIfStatements.dll

@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\bin\Debug\net5.0\OperatorsC.exe
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\bin\Debug\net5.0\OperatorsC.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\bin\Debug\net5.0\OperatorsC.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\bin\Debug\net5.0\OperatorsC.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\bin\Debug\net5.0\OperatorsC.dll
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\bin\Debug\net5.0\OperatorsC.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\obj\Debug\net5.0\OperatorsC.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\obj\Debug\net5.0\OperatorsC.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\obj\Debug\net5.0\OperatorsC.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\obj\Debug\net5.0\OperatorsC.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\obj\Debug\net5.0\OperatorsC.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\obj\Debug\net5.0\OperatorsC.dll
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\obj\Debug\net5.0\refint\OperatorsC.dll
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\obj\Debug\net5.0\OperatorsC.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\obj\Debug\net5.0\OperatorsC.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S3_FunctionsMethods\OperatorsC\obj\Debug\net5.0\ref\OperatorsC.dll

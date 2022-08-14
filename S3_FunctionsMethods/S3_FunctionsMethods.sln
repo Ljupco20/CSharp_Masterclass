@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsWithRerurnValAndPara
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeMethods", "ChallengeMethods\ChallengeMethods.csproj", "{08149C3C-6BD8-4E16-A4E6-44C67E6CF28E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseMethods1", "ExerciseMethods1\ExerciseMethods1.csproj", "{246F1434-121E-4E1C-8D3E-20624CCEA7C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciseMethods1", "ExerciseMethods1\ExerciseMethods1.csproj", "{246F1434-121E-4E1C-8D3E-20624CCEA7C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInput", "UserInput\UserInput.csproj", "{558D732F-28C4-4465-9244-9E2CC2CAC395}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserInput", "UserInput\UserInput.csproj", "{558D732F-28C4-4465-9244-9E2CC2CAC395}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryAndCatchC", "TryAndCatchC\TryAndCatchC.csproj", "{18AFB1EB-0CE1-4321-B513-A5E22739848F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorsC", "OperatorsC\OperatorsC.csproj", "{0EEA6757-020A-49EF-887E-239306460EDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{558D732F-28C4-4465-9244-9E2CC2CAC395}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{558D732F-28C4-4465-9244-9E2CC2CAC395}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{558D732F-28C4-4465-9244-9E2CC2CAC395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18AFB1EB-0CE1-4321-B513-A5E22739848F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18AFB1EB-0CE1-4321-B513-A5E22739848F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18AFB1EB-0CE1-4321-B513-A5E22739848F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18AFB1EB-0CE1-4321-B513-A5E22739848F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EEA6757-020A-49EF-887E-239306460EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEA6757-020A-49EF-887E-239306460EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEA6757-020A-49EF-887E-239306460EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEA6757-020A-49EF-887E-239306460EDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

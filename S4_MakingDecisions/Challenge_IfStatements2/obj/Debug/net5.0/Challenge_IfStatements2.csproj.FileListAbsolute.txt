@@ -1,0 +1,16 @@
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\bin\Debug\net5.0\Challenge_IfStatements2.exe
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\bin\Debug\net5.0\Challenge_IfStatements2.deps.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\bin\Debug\net5.0\Challenge_IfStatements2.runtimeconfig.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\bin\Debug\net5.0\Challenge_IfStatements2.runtimeconfig.dev.json
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\bin\Debug\net5.0\Challenge_IfStatements2.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\bin\Debug\net5.0\Challenge_IfStatements2.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\obj\Debug\net5.0\Challenge_IfStatements2.csproj.AssemblyReference.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\obj\Debug\net5.0\Challenge_IfStatements2.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\obj\Debug\net5.0\Challenge_IfStatements2.AssemblyInfoInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\obj\Debug\net5.0\Challenge_IfStatements2.AssemblyInfo.cs
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\obj\Debug\net5.0\Challenge_IfStatements2.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\obj\Debug\net5.0\Challenge_IfStatements2.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\obj\Debug\net5.0\refint\Challenge_IfStatements2.dll
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\obj\Debug\net5.0\Challenge_IfStatements2.pdb
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\obj\Debug\net5.0\Challenge_IfStatements2.genruntimeconfig.cache
+D:\REPOSITORIES\CSharp_Masterclass\S4_MakingDecisions\Challenge_IfStatements2\obj\Debug\net5.0\ref\Challenge_IfStatements2.dll

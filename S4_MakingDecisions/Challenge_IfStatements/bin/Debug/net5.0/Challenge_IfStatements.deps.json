@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Challenge_IfStatements/1.0.0": {
+        "runtime": {
+          "Challenge_IfStatements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge_IfStatements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
