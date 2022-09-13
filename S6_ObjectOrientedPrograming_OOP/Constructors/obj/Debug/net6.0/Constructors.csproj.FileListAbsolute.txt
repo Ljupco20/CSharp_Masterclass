@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\bin\Debug\net6.0\Constructors.exe
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\bin\Debug\net6.0\Constructors.deps.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\bin\Debug\net6.0\Constructors.runtimeconfig.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\bin\Debug\net6.0\Constructors.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\bin\Debug\net6.0\Constructors.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\obj\Debug\net6.0\Constructors.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\obj\Debug\net6.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\obj\Debug\net6.0\Constructors.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\obj\Debug\net6.0\Constructors.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\obj\Debug\net6.0\Constructors.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\obj\Debug\net6.0\Constructors.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\obj\Debug\net6.0\refint\Constructors.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\obj\Debug\net6.0\Constructors.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\obj\Debug\net6.0\Constructors.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Constructors\obj\Debug\net6.0\ref\Constructors.dll

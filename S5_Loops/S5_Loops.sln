@@ -5,17 +5,19 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "For_Loops", "For_Loops\For_Loops.csproj", "{E70BD89F-B400-484A-B831-3F1B757E55D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileLoop", "DoWhileLoop\DoWhileLoop.csproj", "{7D51FB78-0347-43CB-A5A3-A15D6A3DA1DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoWhileLoop", "DoWhileLoop\DoWhileLoop.csproj", "{7D51FB78-0347-43CB-A5A3-A15D6A3DA1DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoops", "WhileLoops\WhileLoops.csproj", "{96BC6D4F-CC9F-4B6F-87C7-B5DE322393FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileLoops", "WhileLoops\WhileLoops.csproj", "{96BC6D4F-CC9F-4B6F-87C7-B5DE322393FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodExerc4_Loops", "CodExerc4_Loops\CodExerc4_Loops.csproj", "{A2AD35CB-246B-423F-AE79-0D65D8942263}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodExerc4_Loops", "CodExerc4_Loops\CodExerc4_Loops.csproj", "{A2AD35CB-246B-423F-AE79-0D65D8942263}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakAndContinue", "BreakAndContinue\BreakAndContinue.csproj", "{1DE16FA1-EF11-465D-B6ED-EACF9D6E7DFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BreakAndContinue", "BreakAndContinue\BreakAndContinue.csproj", "{1DE16FA1-EF11-465D-B6ED-EACF9D6E7DFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodExer5_BreakAndContinue", "CodExer5_BreakAndContinue\CodExer5_BreakAndContinue.csproj", "{DA1D443A-B0C6-4BB3-9A46-587F8EBC33CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodExer5_BreakAndContinue", "CodExer5_BreakAndContinue\CodExer5_BreakAndContinue.csproj", "{DA1D443A-B0C6-4BB3-9A46-587F8EBC33CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeLoops", "ChallengeLoops\ChallengeLoops.csproj", "{E0A78610-C1EC-45D4-92C6-127CC60EE16E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChallengeLoops", "ChallengeLoops\ChallengeLoops.csproj", "{E0A78610-C1EC-45D4-92C6-127CC60EE16E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeLoops-Average", "ChallengeLoops-Average\ChallengeLoops-Average.csproj", "{6A2F585D-247A-4AB4-9776-864A32CC7E57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{E0A78610-C1EC-45D4-92C6-127CC60EE16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0A78610-C1EC-45D4-92C6-127CC60EE16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0A78610-C1EC-45D4-92C6-127CC60EE16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A2F585D-247A-4AB4-9776-864A32CC7E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2F585D-247A-4AB4-9776-864A32CC7E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2F585D-247A-4AB4-9776-864A32CC7E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2F585D-247A-4AB4-9776-864A32CC7E57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

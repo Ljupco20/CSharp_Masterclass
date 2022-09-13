@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExerc4_Loops\\CodExerc4_Loops.csproj",
+      "projectUniqueName": "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExerc4_Loops\\CodExerc4_Loops.csproj",
       "projectName": "CodExerc4_Loops",
-      "projectPath": "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExerc4_Loops\\CodExerc4_Loops.csproj",
+      "projectPath": "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExerc4_Loops\\CodExerc4_Loops.csproj",
       "packagesPath": "C:\\Users\\LPanter\\.nuget\\packages\\",
-      "outputPath": "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExerc4_Loops\\obj\\",
+      "outputPath": "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExerc4_Loops\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\WhileLoops\\WhileLoops.csproj": {}
+    "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\WhileLoops\\WhileLoops.csproj": {}
   },
   "projects": {
-    "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\WhileLoops\\WhileLoops.csproj": {
+    "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\WhileLoops\\WhileLoops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\WhileLoops\\WhileLoops.csproj",
+        "projectUniqueName": "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\WhileLoops\\WhileLoops.csproj",
         "projectName": "WhileLoops",
-        "projectPath": "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\WhileLoops\\WhileLoops.csproj",
+        "projectPath": "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\WhileLoops\\WhileLoops.csproj",
         "packagesPath": "C:\\Users\\LPanter\\.nuget\\packages\\",
-        "outputPath": "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\WhileLoops\\obj\\",
+        "outputPath": "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\WhileLoops\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

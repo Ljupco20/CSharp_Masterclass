@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExer5_BreakAndContinue\\CodExer5_BreakAndContinue.csproj": {}
+    "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExer5_BreakAndContinue\\CodExer5_BreakAndContinue.csproj": {}
   },
   "projects": {
-    "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExer5_BreakAndContinue\\CodExer5_BreakAndContinue.csproj": {
+    "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExer5_BreakAndContinue\\CodExer5_BreakAndContinue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExer5_BreakAndContinue\\CodExer5_BreakAndContinue.csproj",
+        "projectUniqueName": "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExer5_BreakAndContinue\\CodExer5_BreakAndContinue.csproj",
         "projectName": "CodExer5_BreakAndContinue",
-        "projectPath": "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExer5_BreakAndContinue\\CodExer5_BreakAndContinue.csproj",
+        "projectPath": "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExer5_BreakAndContinue\\CodExer5_BreakAndContinue.csproj",
         "packagesPath": "C:\\Users\\LPanter\\.nuget\\packages\\",
-        "outputPath": "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExer5_BreakAndContinue\\obj\\",
+        "outputPath": "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\CodExer5_BreakAndContinue\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

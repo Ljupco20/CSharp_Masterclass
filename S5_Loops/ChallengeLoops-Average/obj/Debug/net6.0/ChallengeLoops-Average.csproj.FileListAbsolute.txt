@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\bin\Debug\net6.0\ChallengeLoops-Average.exe
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\bin\Debug\net6.0\ChallengeLoops-Average.deps.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\bin\Debug\net6.0\ChallengeLoops-Average.runtimeconfig.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\bin\Debug\net6.0\ChallengeLoops-Average.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\bin\Debug\net6.0\ChallengeLoops-Average.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\obj\Debug\net6.0\ChallengeLoops-Average.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\obj\Debug\net6.0\ChallengeLoops-Average.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\obj\Debug\net6.0\ChallengeLoops-Average.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\obj\Debug\net6.0\ChallengeLoops-Average.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\obj\Debug\net6.0\ChallengeLoops-Average.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\obj\Debug\net6.0\ChallengeLoops-Average.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\obj\Debug\net6.0\refint\ChallengeLoops-Average.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\obj\Debug\net6.0\ChallengeLoops-Average.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\obj\Debug\net6.0\ChallengeLoops-Average.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S5_Loops\ChallengeLoops-Average\obj\Debug\net6.0\ref\ChallengeLoops-Average.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\BreakAndContinue\\BreakAndContinue.csproj": {}
+    "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\BreakAndContinue\\BreakAndContinue.csproj": {}
   },
   "projects": {
-    "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\BreakAndContinue\\BreakAndContinue.csproj": {
+    "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\BreakAndContinue\\BreakAndContinue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\BreakAndContinue\\BreakAndContinue.csproj",
+        "projectUniqueName": "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\BreakAndContinue\\BreakAndContinue.csproj",
         "projectName": "BreakAndContinue",
-        "projectPath": "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\BreakAndContinue\\BreakAndContinue.csproj",
+        "projectPath": "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\BreakAndContinue\\BreakAndContinue.csproj",
         "packagesPath": "C:\\Users\\LPanter\\.nuget\\packages\\",
-        "outputPath": "D:\\REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\BreakAndContinue\\obj\\",
+        "outputPath": "D:\\W_REPOSITORIES\\CSharp_Masterclass\\S5_Loops\\BreakAndContinue\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
