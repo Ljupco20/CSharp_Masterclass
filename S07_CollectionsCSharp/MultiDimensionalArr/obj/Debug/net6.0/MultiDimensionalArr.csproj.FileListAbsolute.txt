@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\bin\Debug\net6.0\MultiDimensionalArr.exe
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\bin\Debug\net6.0\MultiDimensionalArr.deps.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\bin\Debug\net6.0\MultiDimensionalArr.runtimeconfig.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\bin\Debug\net6.0\MultiDimensionalArr.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\bin\Debug\net6.0\MultiDimensionalArr.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\obj\Debug\net6.0\MultiDimensionalArr.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\obj\Debug\net6.0\MultiDimensionalArr.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\obj\Debug\net6.0\MultiDimensionalArr.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\obj\Debug\net6.0\MultiDimensionalArr.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\obj\Debug\net6.0\MultiDimensionalArr.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\obj\Debug\net6.0\MultiDimensionalArr.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\obj\Debug\net6.0\refint\MultiDimensionalArr.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\obj\Debug\net6.0\MultiDimensionalArr.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\obj\Debug\net6.0\MultiDimensionalArr.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\MultiDimensionalArr\obj\Debug\net6.0\ref\MultiDimensionalArr.dll

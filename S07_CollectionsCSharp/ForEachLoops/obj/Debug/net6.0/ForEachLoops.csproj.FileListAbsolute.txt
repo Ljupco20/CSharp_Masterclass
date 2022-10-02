@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\bin\Debug\net6.0\ForEachLoops.exe
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\bin\Debug\net6.0\ForEachLoops.deps.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\bin\Debug\net6.0\ForEachLoops.runtimeconfig.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\bin\Debug\net6.0\ForEachLoops.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\bin\Debug\net6.0\ForEachLoops.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\obj\Debug\net6.0\ForEachLoops.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\obj\Debug\net6.0\ForEachLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\obj\Debug\net6.0\ForEachLoops.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\obj\Debug\net6.0\ForEachLoops.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\obj\Debug\net6.0\ForEachLoops.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\obj\Debug\net6.0\ForEachLoops.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\obj\Debug\net6.0\refint\ForEachLoops.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\obj\Debug\net6.0\ForEachLoops.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\obj\Debug\net6.0\ForEachLoops.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\ForEachLoops\obj\Debug\net6.0\ref\ForEachLoops.dll
