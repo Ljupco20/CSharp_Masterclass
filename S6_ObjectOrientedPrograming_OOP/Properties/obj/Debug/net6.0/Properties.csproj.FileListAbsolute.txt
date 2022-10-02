@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\bin\Debug\net6.0\Properties.exe
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\bin\Debug\net6.0\Properties.deps.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\bin\Debug\net6.0\Properties.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\bin\Debug\net6.0\Properties.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\obj\Debug\net6.0\Properties.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\obj\Debug\net6.0\refint\Properties.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\obj\Debug\net6.0\Properties.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\Properties\obj\Debug\net6.0\ref\Properties.dll

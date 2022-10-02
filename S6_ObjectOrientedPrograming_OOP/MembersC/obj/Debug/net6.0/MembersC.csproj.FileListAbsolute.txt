@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\obj\Debug\net6.0\MembersC.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\obj\Debug\net6.0\MembersC.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\obj\Debug\net6.0\MembersC.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\obj\Debug\net6.0\MembersC.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\obj\Debug\net6.0\MembersC.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\bin\Debug\net6.0\MembersC.exe
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\bin\Debug\net6.0\MembersC.deps.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\bin\Debug\net6.0\MembersC.runtimeconfig.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\bin\Debug\net6.0\MembersC.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\bin\Debug\net6.0\MembersC.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\obj\Debug\net6.0\MembersC.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\obj\Debug\net6.0\refint\MembersC.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\obj\Debug\net6.0\MembersC.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\obj\Debug\net6.0\MembersC.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S6_ObjectOrientedPrograming_OOP\MembersC\obj\Debug\net6.0\ref\MembersC.dll
