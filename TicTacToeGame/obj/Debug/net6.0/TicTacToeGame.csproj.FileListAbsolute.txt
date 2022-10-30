@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.exe
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.deps.json
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.runtimeconfig.json
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\obj\Debug\net6.0\refint\TicTacToeGame.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\TicTacToeGame\obj\Debug\net6.0\ref\TicTacToeGame.dll

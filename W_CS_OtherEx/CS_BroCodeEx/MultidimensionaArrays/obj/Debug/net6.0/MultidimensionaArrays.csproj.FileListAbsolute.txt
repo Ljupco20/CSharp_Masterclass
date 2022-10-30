@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\bin\Debug\net6.0\MultidimensionaArrays.exe
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\bin\Debug\net6.0\MultidimensionaArrays.deps.json
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\bin\Debug\net6.0\MultidimensionaArrays.runtimeconfig.json
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\bin\Debug\net6.0\MultidimensionaArrays.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\bin\Debug\net6.0\MultidimensionaArrays.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\obj\Debug\net6.0\MultidimensionaArrays.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\obj\Debug\net6.0\MultidimensionaArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\obj\Debug\net6.0\MultidimensionaArrays.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\obj\Debug\net6.0\MultidimensionaArrays.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\obj\Debug\net6.0\MultidimensionaArrays.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\obj\Debug\net6.0\MultidimensionaArrays.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\obj\Debug\net6.0\refint\MultidimensionaArrays.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\obj\Debug\net6.0\MultidimensionaArrays.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\obj\Debug\net6.0\MultidimensionaArrays.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\MultidimensionaArrays\obj\Debug\net6.0\ref\MultidimensionaArrays.dll

@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeclaringAndInitializingArr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForEachLoops", "ForEachLoops\ForEachLoops.csproj", "{2512376B-42B6-4620-A4D6-BFCD3D0FC66A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForeachAndSwitch_Challenge", "ForeachAndSwitch_Challenge\ForeachAndSwitch_Challenge.csproj", "{F135A210-EB66-4EE1-B7B7-923EF68AE6D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForeachAndSwitch_Challenge", "ForeachAndSwitch_Challenge\ForeachAndSwitch_Challenge.csproj", "{F135A210-EB66-4EE1-B7B7-923EF68AE6D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimensionalArr", "MultiDimensionalArr\MultiDimensionalArr.csproj", "{203F77C0-999D-4BC5-B032-3F5AD8C1E9CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiDimensionalArr", "MultiDimensionalArr\MultiDimensionalArr.csproj", "{203F77C0-999D-4BC5-B032-3F5AD8C1E9CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedForLoopsAnd2DArrays", "NestedForLoopsAnd2DArrays\NestedForLoopsAnd2DArrays.csproj", "{161A85FF-A28F-43C6-887B-376A858C9333}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{203F77C0-999D-4BC5-B032-3F5AD8C1E9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{203F77C0-999D-4BC5-B032-3F5AD8C1E9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{203F77C0-999D-4BC5-B032-3F5AD8C1E9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161A85FF-A28F-43C6-887B-376A858C9333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161A85FF-A28F-43C6-887B-376A858C9333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161A85FF-A28F-43C6-887B-376A858C9333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161A85FF-A28F-43C6-887B-376A858C9333}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

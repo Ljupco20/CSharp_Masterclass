@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\obj\Debug\net6.0\ObjectsAsArguments.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\obj\Debug\net6.0\ObjectsAsArguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\obj\Debug\net6.0\ObjectsAsArguments.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\obj\Debug\net6.0\ObjectsAsArguments.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\obj\Debug\net6.0\ObjectsAsArguments.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\bin\Debug\net6.0\ObjectsAsArguments.exe
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\bin\Debug\net6.0\ObjectsAsArguments.deps.json
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\bin\Debug\net6.0\ObjectsAsArguments.runtimeconfig.json
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\bin\Debug\net6.0\ObjectsAsArguments.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\bin\Debug\net6.0\ObjectsAsArguments.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\obj\Debug\net6.0\ObjectsAsArguments.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\obj\Debug\net6.0\refint\ObjectsAsArguments.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\obj\Debug\net6.0\ObjectsAsArguments.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\obj\Debug\net6.0\ObjectsAsArguments.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ObjectsAsArguments\obj\Debug\net6.0\ref\ObjectsAsArguments.dll

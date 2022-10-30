@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\bin\Debug\net6.0\ListOfObjects.exe
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\bin\Debug\net6.0\ListOfObjects.deps.json
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\bin\Debug\net6.0\ListOfObjects.runtimeconfig.json
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\bin\Debug\net6.0\ListOfObjects.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\bin\Debug\net6.0\ListOfObjects.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\obj\Debug\net6.0\ListOfObjects.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\obj\Debug\net6.0\ListOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\obj\Debug\net6.0\ListOfObjects.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\obj\Debug\net6.0\ListOfObjects.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\obj\Debug\net6.0\ListOfObjects.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\obj\Debug\net6.0\ListOfObjects.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\obj\Debug\net6.0\refint\ListOfObjects.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\obj\Debug\net6.0\ListOfObjects.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\obj\Debug\net6.0\ListOfObjects.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\ListOfObjects\obj\Debug\net6.0\ref\ListOfObjects.dll

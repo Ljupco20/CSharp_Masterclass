@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll

@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\bin\Debug\net6.0\NestedForLoopsAnd2DArrays.exe
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\bin\Debug\net6.0\NestedForLoopsAnd2DArrays.deps.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\bin\Debug\net6.0\NestedForLoopsAnd2DArrays.runtimeconfig.json
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\bin\Debug\net6.0\NestedForLoopsAnd2DArrays.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\bin\Debug\net6.0\NestedForLoopsAnd2DArrays.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\obj\Debug\net6.0\NestedForLoopsAnd2DArrays.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\obj\Debug\net6.0\NestedForLoopsAnd2DArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\obj\Debug\net6.0\NestedForLoopsAnd2DArrays.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\obj\Debug\net6.0\NestedForLoopsAnd2DArrays.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\obj\Debug\net6.0\NestedForLoopsAnd2DArrays.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\obj\Debug\net6.0\NestedForLoopsAnd2DArrays.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\obj\Debug\net6.0\refint\NestedForLoopsAnd2DArrays.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\obj\Debug\net6.0\NestedForLoopsAnd2DArrays.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\obj\Debug\net6.0\NestedForLoopsAnd2DArrays.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\S07_CollectionsCSharp\NestedForLoopsAnd2DArrays\obj\Debug\net6.0\ref\NestedForLoopsAnd2DArrays.dll

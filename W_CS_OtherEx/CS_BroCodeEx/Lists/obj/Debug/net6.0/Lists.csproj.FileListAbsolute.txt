@@ -1,0 +1,15 @@
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\bin\Debug\net6.0\Lists.exe
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\bin\Debug\net6.0\Lists.deps.json
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\bin\Debug\net6.0\Lists.runtimeconfig.json
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\bin\Debug\net6.0\Lists.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\bin\Debug\net6.0\Lists.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\obj\Debug\net6.0\Lists.csproj.AssemblyReference.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\obj\Debug\net6.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\obj\Debug\net6.0\Lists.AssemblyInfoInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\obj\Debug\net6.0\Lists.AssemblyInfo.cs
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\obj\Debug\net6.0\Lists.csproj.CoreCompileInputs.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\obj\Debug\net6.0\Lists.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\obj\Debug\net6.0\refint\Lists.dll
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\obj\Debug\net6.0\Lists.pdb
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\obj\Debug\net6.0\Lists.genruntimeconfig.cache
+D:\W_REPOSITORIES\CSharp_Masterclass\W_CS_OtherEx\CS_BroCodeEx\Lists\obj\Debug\net6.0\ref\Lists.dll
